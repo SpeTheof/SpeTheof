@@ -22,10 +22,10 @@
 | | Game | What it is | Play |
 |:--:|:--|:--|:--:|
 | ⚔️ | **[Emberfall — The Cinder Crown](https://github.com/SpeTheof/emberfall)** | Medieval action-platformer · 3 heroes · loot & crafting · 3 replayable maps · dragon boss · PC + mobile | [**▶ PLAY**](https://spetheof.github.io/emberfall/) |
-| 🔫 | **Armory Defense** | Gun tower defense · 15 weapons · 3 maps · 50 waves · **every gunshot is a real mouth recording** | [**▶ PLAY**](https://spetheof.github.io/Armory-Defense/) |
-| 🛒 | **CartRunner** | Physics-based cart launcher · NOS nitro · spin chains · 8 categories × 20 upgrade tiers | [**▶ PLAY**](https://cartrunner.netlify.app) |
-| 🏰 | **Canyon Defense** | Classic tower defense · 3 maps · 3 difficulties · 11 unlockable towers | [repo](https://github.com/SpeTheof/Canyon-Defense) |
-| 🏃 | **Olympian** | Browser game in vanilla JavaScript + Canvas | [repo](https://github.com/SpeTheof/Olympian) |
+| 🔫 | **[Armory Defense](https://github.com/SpeTheof/Armory-Defense)** | Gun tower defense · 15 weapons · 3 maps · 50 waves · **every gunshot is a real mouth recording** | [**▶ PLAY**](https://spetheof.github.io/Armory-Defense/) |
+| 🛒 | **[CartRunner](https://github.com/SpeTheof/CartRunner)** | Physics-based cart launcher · NOS nitro · spin chains · 8 categories × 20 upgrade tiers | [**▶ PLAY**](https://spetheof.github.io/CartRunner/) · [netlify](https://cartrunner.netlify.app) |
+| 🏰 | **[Canyon Defense](https://github.com/SpeTheof/Canyon-Defense)** | Classic tower defense · 3 maps · 3 difficulties · 11 unlockable towers | [repo](https://github.com/SpeTheof/Canyon-Defense) |
+| 🏃 | **[Olympian](https://github.com/SpeTheof/Olympian)** | Browser game in vanilla JavaScript + Canvas | [**▶ PLAY**](https://spetheof.github.io/Olympian/) |
 
 <div align="center">
 
@@ -40,6 +40,16 @@
 </div>
 
 <sub>🛠 Vanilla JS · HTML5 Canvas · Web Audio API — no engines, no frameworks · vision by Spe 🎤, engine by Aura 🔮</sub>
+
+---
+
+### 🎛 Music tools
+
+| | Tool | What it is | Open |
+|:--:|:--|:--|:--:|
+| 🎚️ | **[AI-Beat-Critic](https://github.com/SpeTheof/AI-Beat-Critic)** | Mix analyzer + FL Studio advisor · ITU-R BS.1770 loudness · true peak · phase correlation · spectral tilt · reference A/B | [**▶ OPEN**](https://spetheof.github.io/AI-Beat-Critic/) |
+
+<sub>One HTML file, no install. Drop in a track and get a technical mix report plus specific FL Studio fixes.</sub>
 
 ---
 
@@ -62,5 +72,5 @@ Teaching the Greek FL Studio community since 2015 (melodies, tempo automation, v
 ---
 
 <div align="center">
-<sub>🎧 music · 🎮 games · 🔮 vibe coded with Aura</sub>
+<sub>🎧 music · 🎮 games · 🎛 music tools · 🔮 vibe coded with Aura</sub>
 </div>
