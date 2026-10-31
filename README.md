@@ -21,10 +21,23 @@
 
 | | Game | What it is | Play |
 |:--:|:--|:--|:--:|
+| ⚔️ | **[Emberfall — The Cinder Crown](https://github.com/SpeTheof/emberfall)** | Medieval action-platformer · 3 heroes · loot & crafting · 3 replayable maps · dragon boss · PC + mobile | [**▶ PLAY**](https://spetheof.github.io/emberfall/) |
 | 🔫 | **Armory Defense** | Gun tower defense · 15 weapons · 3 maps · 50 waves · **every gunshot is a real mouth recording** | [**▶ PLAY**](https://spetheof.github.io/Armory-Defense/) |
 | 🛒 | **CartRunner** | Physics-based cart launcher · NOS nitro · spin chains · 8 categories × 20 upgrade tiers | [**▶ PLAY**](https://cartrunner.netlify.app) |
 | 🏰 | **Canyon Defense** | Classic tower defense · 3 maps · 3 difficulties · 11 unlockable towers | [repo](https://github.com/SpeTheof/Canyon-Defense) |
 | 🏃 | **Olympian** | Browser game in vanilla JavaScript + Canvas | [repo](https://github.com/SpeTheof/Olympian) |
+
+<div align="center">
+
+<a href="https://spetheof.github.io/emberfall/">
+  <img src="https://raw.githubusercontent.com/SpeTheof/emberfall/main/screenshots/title.png" alt="Emberfall — The Cinder Crown" width="720">
+</a>
+
+**⚔️ Emberfall — The Cinder Crown** · [**Play in browser**](https://spetheof.github.io/emberfall/) · [Source](https://github.com/SpeTheof/emberfall) · [Download](https://github.com/SpeTheof/emberfall/releases/latest)
+
+<sub>Three heroes, three shards, one dragon. No install — runs on desktop and mobile.</sub>
+
+</div>
 
 <sub>🛠 Vanilla JS · HTML5 Canvas · Web Audio API — no engines, no frameworks · vision by Spe 🎤, engine by Aura 🔮</sub>
 
